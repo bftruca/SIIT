@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">SiitAndroidFundamentals</string>
-    <string name="hello">Happy Birthday to Cristian ! :)</string>
+    <string name="hello">Hello World !! :D </string>
+    <string name="i_am_a_button">I AM A BUTTON!</string>
+    <string name="i_am_a_checkbox">I am a checkbox</string>
+    <string name="turn_on_off">Turn On/Off</string>
+    <string name="search_something">Search Something</string>
+    <string name="please_fill_tbe_input">Please fill tbe input</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="hello_from_java">Hello from Java side</string>
+    <string name="new_text">New Text</string>
+    <string name="change_text">Change text</string>
+    <string name="required">Required</string>
 </resources>
