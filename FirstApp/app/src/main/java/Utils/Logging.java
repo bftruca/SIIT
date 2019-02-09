@@ -1,4 +1,4 @@
-package ro.bogdantruca.siitandroidfundamentals;
+package Utils;
 
 import android.util.Log;
 

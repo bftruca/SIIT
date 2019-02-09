@@ -17,6 +17,8 @@ import android.widget.Toast;
 
 import java.util.List;
 
+import Utils.Logging;
+
 public class MainActivity extends AppCompatActivity {
 
     private TextView mTextViewInfoText;
