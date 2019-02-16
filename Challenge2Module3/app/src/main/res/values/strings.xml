@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Challenge2Module3</string>
+    <string name="text_from_text_view">ScrollView: A view group that allows the view hierarchy placed within it to be scrolled. Scroll view may have only one direct child placed within it. To add multiple views within the scroll view, make the direct child you add a view group, for example LinearLayout, and place additional views within that LinearLayout.</string>
+    <string name="spinner_example">Spinner Example</string>
+</resources>

@@ -4,4 +4,6 @@
     <dimen name="space_16">16dp</dimen>
     <dimen name="space_1">1dp</dimen>
     <dimen name="photosize">200dp</dimen>
+    <dimen name="dp_128">128dp</dimen>
+    <dimen name="dp_64">64dp</dimen>
 </resources>

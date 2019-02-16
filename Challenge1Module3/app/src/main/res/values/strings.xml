@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge1Module3</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="i_accept_t_c"><![CDATA[I accept T&C]]></string>
+    <string name="email_error">Fill the input with a valid email address</string>
+    <string name="phone_error">Fill the input with a phone number</string>
+    <string name="submit">SUBMIT</string>
+</resources>
