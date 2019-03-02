@@ -6,4 +6,5 @@
     <dimen name="photosize">200dp</dimen>
     <dimen name="dp_128">128dp</dimen>
     <dimen name="dp_64">64dp</dimen>
+    <dimen name="space_8">8dp</dimen>
 </resources>

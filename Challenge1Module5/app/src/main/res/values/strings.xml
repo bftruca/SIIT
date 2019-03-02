@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coin Flip</string>
+    <string name="message">ARE YOU A WINNER OR A LOSER ?</string>
+    <string name="head">HEAD</string>
+    <string name="tail">TAIL</string>
+    <string name="messge_loser">Loser</string>
+    <string name="message_winner">Winner</string>
+</resources>

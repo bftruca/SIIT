@@ -28,6 +28,7 @@ public class SpinnerActivity extends AppCompatActivity implements AdapterView.On
     private void initView() {
         mSpinnerFruits = findViewById(R.id.spinner_fruits);
         mSpinnerFruits.setAdapter(getFruitsAdapter());
+        mSpinnerFruits.setOnItemSelectedListener(this);
     }
 
     //get data source for spinner

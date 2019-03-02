@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Challenge5Module5</string>
+    <string name="site">https://developer.android.com</string>
+    <string name="location">Bucharest</string>
+    <string name="love_text">We love Android! :)</string>
+    <string name="share_text_with">Share Text</string>
+</resources>
