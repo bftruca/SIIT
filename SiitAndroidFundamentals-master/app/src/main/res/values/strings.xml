@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SIIT - Android Fundamentals</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="i_am_a_button">I am a button!</string>
+    <string name="please_fill_the_input">Please fill the input</string>
+    <string name="i_am_a_checkbox">I am a CheckBox :)</string>
+    <string name="turn_on_off">Turn On/Off</string>
+    <string name="search_query_hint">Search something</string>
+    <string name="hello_from_java">Hello from Java side</string>
+    <string name="new_text">New text</string>
+    <string name="change_text">Change Text</string>
+    <string name="required">Required</string>
+    <string name="fruits">Fruits</string>
+    <string name="hello_from_activity1">Hello from Activity1! :)</string>
+    <string name="start_activity2">Start Activity2</string>
+    <string name="hello_from_activity2">Hello from Activity2! :)</string>
+    <string name="on_start">onStart</string>
+    <string name="on_resume">onResume</string>
+    <string name="on_pause">onPause</string>
+    <string name="on_stop">onStop</string>
+    <string name="on_restart">onRestart</string>
+    <string name="on_destroy">onDestroy</string>
+    <string name="on_create">onCreate</string>
+    <string name="call">Call</string>
+    <string name="open_url">Open URL</string>
+    <string name="send_data">Send Data</string>
+    <string name="start_activity_for_result">Start Activity For Result</string>
+    <string name="send_data_back">Send Data Back</string>
+    <string name="rating_bar_example">Rating Bar Example</string>
+    <string name="current_rating">Current rating is </string>
+    <string name="activities">Activities</string>
+    <string name="implicit_intents">Implicit Intents</string>
+    <string name="start_activity_with_intent">Start Activity with Intent</string>
+    <string name="bundle">Bundle</string>
+    <string name="activity_for_result">Activity for result</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

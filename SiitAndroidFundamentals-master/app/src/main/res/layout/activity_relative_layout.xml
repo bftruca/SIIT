@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".module3.RelativeLayoutActivity">
+
+    <TextView
+        android:layout_width="@dimen/space_64"
+        android:layout_height="@dimen/space_64"
+        android:layout_alignParentRight="true"
+        android:background="@color/colorPrimaryDark" />
+
+    <TextView
+        android:id="@+id/text_view_pink"
+        android:layout_width="@dimen/space_128"
+        android:layout_height="@dimen/space_128"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorAccent" />
+
+    <TextView
+        android:id="@+id/text_view_green"
+        android:layout_width="@dimen/space_128"
+        android:layout_height="@dimen/space_64"
+        android:layout_above="@id/text_view_pink"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:layout_width="@dimen/space_128"
+        android:layout_height="@dimen/space_128"
+        android:layout_centerVertical="true"
+        android:layout_above="@id/text_view_green"
+        android:layout_toRightOf="@id/text_view_green"
+        android:background="@android:color/holo_blue_bright" />
+</RelativeLayout>
