@@ -12,16 +12,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".module6.DynamicFragmentActivity"></activity>
-        <activity android:name=".module6.FragmentActivity" />
-        <activity android:name=".module5.SaveInstanceStateActivity" />
-        <activity android:name=".AndroidFundamentalsActivity">
+        <activity
+            android:name=".module6.NavigationDrawerActivity"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
+        <activity android:name=".module6.ListenerFragmentActivity">
+
+        </activity>
+        <activity android:name=".module6.MethodActivity" />
+        <activity android:name=".module6.DynamicFragmentActivity" />
+        <activity android:name=".module6.FragmentActivity" />
+        <activity android:name=".module5.SaveInstanceStateActivity" />
+        <activity android:name=".AndroidFundamentalsActivity" />
         <activity android:name=".module2.RatingBarActivity" />
         <activity android:name=".module5.Activity2" />
         <activity android:name=".module5.Activity1" />

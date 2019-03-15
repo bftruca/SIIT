@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/space_16"
+    android:orientation="vertical"
+    tools:context=".module6.ListenerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:inputType="number"
+        android:id="@+id/edit_text_first_number"
+        android:hint="First Number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:inputType="number"
+        android:hint="Second Number"
+        android:id="@+id/edit_text_second_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/send_numbers"
+        android:text="SUM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

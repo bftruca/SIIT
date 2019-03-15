@@ -31,11 +31,7 @@
             android:onClick="saveInstanceActivityOnClick"
             android:text="SAVE INSTANCE ACTIVITY" />
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="staticFragmentOnClick"
-            android:text="Static Fragment Activity" />
+        z
     </LinearLayout>
 
 </ScrollView>
