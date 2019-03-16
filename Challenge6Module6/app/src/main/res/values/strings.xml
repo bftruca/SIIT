@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Challenge6Module6</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_fragment_for_import">This is fragment for IMPORT</string>
+    <string name="this_is_fragment_for_gallery">This is fragment for GALLERY</string>
+    <string name="this_is_fragment_for_send">This is fragment for SEND</string>
+    <string name="this_is_fragment_for_share">This is fragment for SHARE</string>
+    <string name="this_is_fragment_for_slideshow">This is fragment for SLIDESHOW</string>
+    <string name="this_is_fragment_for_tools">This is fragment for TOOLS</string>
+</resources>
