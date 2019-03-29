@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Module7</string>
+    <string name="notice">Notice</string>
+    <string name="alert_title">Alert_title</string>
+    <string name="launch_app">Launch App</string>
+    <string name="click">Click</string>
+    <string name="reminde_me">Remind Me</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_occured">Error Occured</string>
+    <string name="retry">Retry</string>
+    <string name="retry_message">Retry Message</string>
+</resources>
