@@ -32,11 +32,15 @@ public class SignInActivity extends AppCompatActivity implements GoogleApiClient
 
     private GoogleApiClient mGoogleApiClient;
     private FirebaseAuth mFirebaseAuth;
+    private FirebaseUser mFirebaseUser;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_in);
+
+        skip();
 
         mSignInButton = (SignInButton) findViewById(R.id.sign_in_button);
 
@@ -54,6 +58,15 @@ public class SignInActivity extends AppCompatActivity implements GoogleApiClient
                 .build();
 
         mFirebaseAuth = FirebaseAuth.getInstance();
+    }
+
+    private void skip() {
+        mFirebaseAuth = FirebaseAuth.getInstance();
+        mFirebaseUser = mFirebaseAuth.getCurrentUser();
+        if (mFirebaseUser != null) {
+            startActivity(new Intent(this, MainActivity.class));
+            finish();
+        }
     }
 
     private void handleFirebaseAuthResult(AuthResult authResult) {
