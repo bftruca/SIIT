@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Module9Challenge1</string>
+    <string name="module_9_the_homework">Module 9: The Homework</string>
+    <string name="challenge_1_2">Challenge 1 &amp; 2</string>
+    <string name="registration_screen">Registration Screen</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="accept_terms_and_conditions">Accept Terms and Conditions</string>
+    <string name="demo_display_data_here">DEMO display data here</string>
+    <string name="sharedpreferences">SharedPreferences</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="save_data">Save Data</string>
+    <string name="display_data">Display data</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_last_name">enter last name</string>
+    <string name="enter_first_name">enter first name</string>
+    <string name="last_name_invalid">Last name is INVALID</string>
+    <string name="first_name_invalid">First name is INVALID</string>
+    <string name="this_field_required">This field is required</string>
+    <string name="email_invalid">Email is INVALID</string>
+    <string name="three_chars_minimum">INVALID. 3 chars minimum</string>
+    <string name="you_must_accept_terms">You must accept Terms and Conditions</string>
+    <string name="empty">empty</string>
+    <string name="file_manager">File Manager</string>
+    <string name="display_from_file">Display from File</string>
+    <string name="save_to_file">Save to File</string>
+    <string name="data_cleared_from_shared_pref">Data cleared from Shared Preferences</string>
+    <string name="data_saved_to_shared_pref">Data saved to Shared Preferences</string>
+    <string name="file_not_found">file not found</string>
+</resources>
